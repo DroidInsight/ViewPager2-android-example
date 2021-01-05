@@ -1,1 +1,1 @@
-# ViewPager2-android-example
+# ViewPager2 Android Example
